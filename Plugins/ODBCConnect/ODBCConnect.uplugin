@@ -10,6 +10,7 @@
 	"DocsURL": "",
 	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d535544141544c91a4350b8aeb752e00",
 	"SupportURL": "",
+	"EngineVersion": "5.4",
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
